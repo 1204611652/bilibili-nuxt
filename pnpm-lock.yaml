@@ -11,6 +11,9 @@ dependencies:
   nuxt:
     specifier: ^3.12.3
     version: 3.12.3(@opentelemetry/api@1.9.0)(sass@1.77.6)(vite@5.3.3)
+  vant:
+    specifier: ^4.9.1
+    version: 4.9.1(vue@3.4.31)
   vue:
     specifier: latest
     version: 3.4.31

@@ -1,6 +1,6 @@
 <template>
   <!-- 页面路由 -->
-  <NuxtPage />
+  <NuxtPage :keepalive="{max:10}"/>
 </template>
 <script setup lang="ts">
 // 基础样式
