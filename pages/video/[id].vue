@@ -1,4 +1,5 @@
 <template>
+   <AppHeader />
   <h1>视频页{{ $route.params.id}}</h1>
 </template>
 
